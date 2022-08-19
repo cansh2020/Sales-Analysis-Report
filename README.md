@@ -1,4 +1,4 @@
-# ETL-Sales_Analysis_Report---MySQL-PowerBI,
+# Sales_Analysis_Report---PowerBI,
 
 ## Description of the scenerio? PROBLEM STATEMENT!
 
@@ -21,4 +21,4 @@
  ### So, what can we infer from the data and make data-driven decisions?
 -  Order Retention Rate(to find out the Re-order from our suppliers? Why has it been decreasing? Has the demand changed in the retail space for our products?)
 -  Some Suppliers might have generated huge Revenue for the company but the Profits Margins per product made to the company are low? Should we reconsider the contracts?
--  Which Product lines are contributing to max profit margins? Who are those suppliers? Is your Selling Price per product is comparatively having more profit margins with your suppliers and suppliers-suppliers (Traders to End-Customers)
+-  Which Product lines are contributing to max profit margins? Who are those suppliers? Is your Selling Price per product is comparatively having more profit margins with your suppliers and suppliers-suppliers (Traders to End-Customers).
