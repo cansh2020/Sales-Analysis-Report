@@ -4,7 +4,7 @@
 
 * Let's say a company is facing isuues with thier Sales.
 
-* Firstly, you got to design a Strategy to tackle the problem. Usually Project Manager's use something called as AIMS Grid to project plan who all will be involved or bascially find out the relations to sort this issue for the company.
+* Firstly, you got to design a Strategy to tackle the problem.
 
 * Hence, we will create a responsive dashboard in PowerBi and finally understand the business opportunities, patterns and   trends within data via visualization graphs! This can be the Solution to the uplift the Companies Sales.
 
