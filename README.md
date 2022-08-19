@@ -6,7 +6,7 @@
 
 * Firstly, you got to design a Strategy to tackle the problem. Usually Project Manager's use something called as AIMS Grid to project plan who all will be involved or bascially find out the relations to sort this issue for the company.
 
-* Hence, we will execute ETL(Extract,Transform,Load) on MySQL and create a responsive dashboard in PowerBi and finally understand the business opportunities, patterns and   trends within data via visualization graphs! This can be the Solution to the uplift the Companies Sales.
+* Hence, we will create a responsive dashboard in PowerBi and finally understand the business opportunities, patterns and   trends within data via visualization graphs! This can be the Solution to the uplift the Companies Sales.
 
 
 # Solutions?
